@@ -6,7 +6,7 @@ export const data: Array<Course> = [
     cover: '/images/courses/2.jpg',
     title: 'Paket Epic',
     rating: 5,
-    ratingCount: 19,
+    ratingCount: 20,
     price: 125000,
     category: 'Beginner',
   },
