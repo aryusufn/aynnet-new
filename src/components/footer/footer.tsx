@@ -19,7 +19,8 @@ const Footer: FC = () => {
                 AYNNET
               </Typography>
               <Typography variant="subtitle1" sx={{ letterSpacing: 1, mb: 2 }}>
-                Kami siap membantu Anda mendapatkan koneksi internet stabil dan handal.
+                Support By PT Jaringan Lintas Utara.<br></br> Kami siap membantu Anda mendapatkan koneksi internet
+                stabil dan handal.
               </Typography>
               <FooterSocialLinks />
             </Box>

@@ -19,7 +19,7 @@ const HomeNewsLetter: FC = () => {
           }}
         >
           <Typography variant="h1" component="h2" sx={{ mb: 1, fontSize: { xs: 32, md: 42 } }}>
-            Dapatkan Informasi Promo & Produk
+            Dapatkan Update Informasi Promo & Produk
           </Typography>
           <Typography sx={{ mb: 6 }}>Dengan Cek Katalog yang ada di WhatsApp Kami.</Typography>
 

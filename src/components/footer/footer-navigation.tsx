@@ -9,7 +9,7 @@ import { FooterSectionTitle } from '@/components/footer'
 const courseMenu: Array<Navigation> = [
   {
     label: 'Paket Epic',
-    path: 'popular-course', // '/popular-course',
+    path: '#',
   },
   {
     label: 'Paket Legend',

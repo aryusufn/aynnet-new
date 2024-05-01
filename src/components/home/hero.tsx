@@ -138,7 +138,7 @@ const HomeHero: FC = () => {
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
                 <Typography sx={{ color: 'text.secondary', lineHeight: 1.6 }}>
                   {
-                    'Harga Terjangkau ramah di kantong, mulai dari 125 Rb / Bulan anda bisa menikmati jaringan WiFi Cepat & Tanpa Batas.'
+                    'Harga Terjangkau ramah di kantong, mulai dari 125 Rb / Bulan anda bisa menikmati jaringan WiFi Cepat & Tanpa Batas. Support By PT Jaringan Lintas Utara.'
                   }
                 </Typography>
               </Box>
