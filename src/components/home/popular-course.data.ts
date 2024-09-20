@@ -16,7 +16,7 @@ export const data: Array<Course> = [
     title: 'Paket Legend',
     rating: 5,
     ratingCount: 2,
-    price: 165000,
+    price: 150000,
     category: 'Intermediate',
   },
   {
