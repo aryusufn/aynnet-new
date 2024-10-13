@@ -19,15 +19,15 @@ interface ExpItemProps {
 const exps: Array<Exp> = [
   {
     label: 'RT',
-    value: '19',
+    value: '52',
   },
   {
     label: 'RW',
-    value: '5',
+    value: '22',
   },
   {
     label: 'Kelurahan',
-    value: '2',
+    value: '7',
   },
 ]
 
