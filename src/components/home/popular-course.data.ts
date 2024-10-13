@@ -33,7 +33,7 @@ export const data: Array<Course> = [
     cover: '/images/courses/5.jpg',
     title: 'Paket Request',
     rating: 5,
-    ratingCount: 4,
+    ratingCount: 6,
     price: 250000,
     category: 'Intermediate',
   },
