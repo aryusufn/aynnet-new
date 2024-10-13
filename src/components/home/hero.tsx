@@ -138,8 +138,11 @@ const HomeHero: FC = () => {
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
                 <Typography sx={{ color: 'text.secondary', lineHeight: 1.6 }}>
                   {
-                    'Harga Terjangkau ramah di kantong, mulai dari 125 Rb / Bulan anda bisa menikmati jaringan WiFi Cepat & Tanpa Batas. Support By PT Jaringan Lintas Utara.'
+                    'AYN NET adalah layanan internet broadband yang cepat, unlimited dengan berbagai pilihan paket yang bisa menyesuaikan dengan kebutuhan Anda. memuaskan pelanggan dengan harga yang terjangkau merupakan tujuan utama kami yang mendedikasikan diri untuk memberikan kualitas terbaik dari sisi pelayanan bagi pelanggan. mulai dari 125 Rb / Bulan anda bisa menikmati jaringan WiFi Cepat & Tanpa Batas.'
                   }
+                </Typography>
+                <Typography sx={{ color: 'text.secondary', lineHeight: 1.6 }}>
+                  {'Supported By PT Jaringan Lintas Utara'}
                 </Typography>
               </Box>
               <Box sx={{ '& button': { mr: 2 } }}>

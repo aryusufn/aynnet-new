@@ -28,10 +28,10 @@ const courseMenu: Array<Navigation> = [
 const pageMenu = headerNavigations
 
 const companyMenu: Array<Navigation> = [
-  { label: 'Contact Us', path: '#' },
-  { label: 'Privacy & Policy', path: '#' },
-  { label: 'Term & Condition', path: '#' },
-  { label: 'FAQ', path: '#' },
+  { label: 'Email : info@aynnet.id', path: '#' },
+  { label: 'WhatsApp : 0895810144500', path: '#' },
+  { label: 'Alamat : Kel. Bujel Kec. Mojoroto Kediri', path: '#' },
+  // { label: 'FAQ', path: '#' },
 ]
 
 interface NavigationItemProps {
