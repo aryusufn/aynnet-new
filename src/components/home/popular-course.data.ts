@@ -24,7 +24,7 @@ export const data: Array<Course> = [
     cover: '/images/courses/4.jpg',
     title: 'Paket Mythic',
     rating: 5,
-    ratingCount: 19,
+    ratingCount: 20,
     price: 200000,
     category: 'Beginner',
   },
